@@ -12,6 +12,7 @@
 
 #define MAXLENGTH 256
 
+char *prg;
 
 void help() {
   printf("%s %s (c) 2005 by van Hauser / THC %s [%s]\n\n", PROGRAM, VERSION, EMAIL, WEB);
